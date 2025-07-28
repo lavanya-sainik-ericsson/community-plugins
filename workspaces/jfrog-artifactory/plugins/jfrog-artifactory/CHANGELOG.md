@@ -1,5 +1,21 @@
 ### Dependencies
 
+## 1.18.0
+
+### Minor Changes
+
+- 7731edd: Backstage version bump to v1.41.1
+
+### Patch Changes
+
+- 4252a3f: Aligned `formatDate` utility with `ADR012 using Luxon`.
+
+## 1.17.0
+
+### Minor Changes
+
+- 3b95346: Backstage version bump to v1.40.2
+
 ## 1.16.0
 
 ### Minor Changes
